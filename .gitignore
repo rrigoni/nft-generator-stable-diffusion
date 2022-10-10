@@ -1,0 +1,4 @@
+venv/
+.idea/
+src/outputs/img/
+src/outputs/prompts.txt
